@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-11-17",
+  "title": "Ucentric VPN v1.0.0",
+  "notes": "Rilis awal Ucentric VPN Client untuk macOS dengan engine WireGuard mandiri.",
+  "downloadUrl": "https://github.com/ucentricid/vpn/raw/main/Ucentric-VPN-macOS.zip"
+}

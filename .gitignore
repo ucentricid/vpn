@@ -1,0 +1,13 @@
+# Sensitif & Konfidensial (DILARANG TERPUSH)
+*.conf
+*.env
+*.env.*
+*.key
+*.pem
+*.log
+*.pid
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+/tmp/
